@@ -324,7 +324,7 @@ correlation_matrix <- cor(a[, c("Quantity", "Sales", "Profit")])
 correlation_matrix
 ```
 Result : 
-# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/03a29863-f0a6-4834-b2cc-ee05d5ac9713)
+# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/b8bc8725-960c-4b7c-990b-7be1f80e4073)
 </p>
 
 
