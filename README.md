@@ -299,10 +299,23 @@ print("Products with Low Profit Margins:")
 print(head(low_margin_products))
 ```
 Result : 
-# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/03a29863-f0a6-4834-b2cc-ee05d5ac9713)
+# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/781b6a92-a883-4cf6-96b0-0bc76f7902fd)
 </p>
 
+# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/bcdc96ba-c717-4270-82b5-3b64342474da)
+</p>
 
+# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/3bcbfc0e-619f-4b42-8942-5e65fbc377a7)
+</p>
+
+# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/d68bcaf3-be95-4406-a42a-41e0c393b7ce)
+</p>
+
+# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/b605093e-4ef5-4255-8a92-f3e7b20769c4)
+</p>
+
+# <p align="center">![image](https://github.com/manojgaikwad13/R-project-on-Global-Superstore/assets/96239993/af94b487-c091-4e3a-a36d-b00df2228787)
+</p>
 
 ```r
 #Order Analysis:
